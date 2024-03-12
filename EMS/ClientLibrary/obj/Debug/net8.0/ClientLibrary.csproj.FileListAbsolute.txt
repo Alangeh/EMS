@@ -1,0 +1,11 @@
+C:\Users\pytho\Desktop\Projects\EMS\EMS\ClientLibrary\bin\Debug\net8.0\ClientLibrary.deps.json
+C:\Users\pytho\Desktop\Projects\EMS\EMS\ClientLibrary\bin\Debug\net8.0\ClientLibrary.dll
+C:\Users\pytho\Desktop\Projects\EMS\EMS\ClientLibrary\bin\Debug\net8.0\ClientLibrary.pdb
+C:\Users\pytho\Desktop\Projects\EMS\EMS\ClientLibrary\obj\Debug\net8.0\ClientLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pytho\Desktop\Projects\EMS\EMS\ClientLibrary\obj\Debug\net8.0\ClientLibrary.AssemblyInfoInputs.cache
+C:\Users\pytho\Desktop\Projects\EMS\EMS\ClientLibrary\obj\Debug\net8.0\ClientLibrary.AssemblyInfo.cs
+C:\Users\pytho\Desktop\Projects\EMS\EMS\ClientLibrary\obj\Debug\net8.0\ClientLibrary.csproj.CoreCompileInputs.cache
+C:\Users\pytho\Desktop\Projects\EMS\EMS\ClientLibrary\obj\Debug\net8.0\ClientLibrary.dll
+C:\Users\pytho\Desktop\Projects\EMS\EMS\ClientLibrary\obj\Debug\net8.0\refint\ClientLibrary.dll
+C:\Users\pytho\Desktop\Projects\EMS\EMS\ClientLibrary\obj\Debug\net8.0\ClientLibrary.pdb
+C:\Users\pytho\Desktop\Projects\EMS\EMS\ClientLibrary\obj\Debug\net8.0\ref\ClientLibrary.dll
