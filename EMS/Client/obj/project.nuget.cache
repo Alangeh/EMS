@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "626Bq++k4o810ec0/96+Fs9spsLXARnhiWO8YlPZVn3PS1X3heKKVSmrhmr39pIm8tLc0YnuJ+MRfZtehf646w==",
+  "dgSpecHash": "GCQ+G+09DNjJ1YoMe2Tq1VsqPMJgbR8aFfx1vpbH4tHUrgpQZZy2MAHpq/b8MziRuW8q7g4K1hta8HWXjIMRsg==",
   "success": true,
   "projectFilePath": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\Client.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\pytho\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\pytho\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.2\\microsoft.aspnetcore.authorization.8.0.2.nupkg.sha512",
     "C:\\Users\\pytho\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.2\\microsoft.aspnetcore.components.8.0.2.nupkg.sha512",
     "C:\\Users\\pytho\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\8.0.2\\microsoft.aspnetcore.components.analyzers.8.0.2.nupkg.sha512",

@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "s97hQDi9IFt77ELKCd8DRHK18603tTF8hPCjKfF6oPAWO57Q0HmQ/ystCs+2AjvXYkKovccZsZ9UuKsCi1tSYw==",
+  "dgSpecHash": "smxLxNCUBWWOdY0miGFMqJxGV61OjMQCZOaiIxDzm2ucEZ1hfsi31BZpHgFBdZU38vqAaic/MWhAQwkr+gpFvg==",
   "success": true,
   "projectFilePath": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\BaseLibrary\\BaseLibrary.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\pytho\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\pytho\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\pytho\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\pytho\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\pytho\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
