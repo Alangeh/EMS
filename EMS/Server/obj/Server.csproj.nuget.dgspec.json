@@ -93,7 +93,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\BaseLibrary\\BaseLibrary.csproj": {
+                "projectPath": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\BaseLibrary\\BaseLibrary.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

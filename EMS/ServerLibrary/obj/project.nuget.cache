@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "vKKacl3ATYOmV5hS1rXivpAPg9oxo1zK0YMD6hzIcaEnBcw+auUf2kWyZy1MeuDag0mpUbRAeVKqT+goX68ksg==",
+  "dgSpecHash": "Uul5Y+4xNTyW1d2fZ8xKkYLNzTuhlhnsZi/F/ZwRM0vkmIZVd+yn1swPWtV8dDbdaM7ianiI8jjupfJSqM6Cbg==",
   "success": true,
   "projectFilePath": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\ServerLibrary\\ServerLibrary.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\pytho\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\pytho\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\pytho\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
     "C:\\Users\\pytho\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
