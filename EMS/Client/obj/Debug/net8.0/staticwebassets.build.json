@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "yrBoSYpELJyAsMklbKe6WoBJsyWfs5tanL/u45bs02M=",
+  "Hash": "G6GkwYFnxxUNkuy66Her0VjsmBFyQmKlFygjBcS4ZT8=",
   "Source": "Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -16,6 +16,25 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\AutoMapper.wasm",
+      "SourceId": "Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/AutoMapper.wasm",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\webcil\\AutoMapper.wasm"
+    },
     {
       "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\BaseLibrary.pdb",
       "SourceId": "Client",
@@ -7767,6 +7786,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Resources.Reader.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\compressed\\yie3ldop7s.gz",
+      "SourceId": "Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/AutoMapper.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\AutoMapper.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\AutoMapper.wasm"
     },
     {
       "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\compressed\\yu6swjv1g9.gz",

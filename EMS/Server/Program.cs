@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using ServerLibrary.Data;
+using ServerLibrary.Helpers;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -15,6 +16,9 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 {
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection") ?? throw new InvalidOperationException("Error: Couldn't Find your connection string"));
 });
+
+// Get JWT section from app settings
+builder.Services.Configure<JwtSection>(builder.Configuration.GetSection("JwtSection"));
 
 var app = builder.Build();
 

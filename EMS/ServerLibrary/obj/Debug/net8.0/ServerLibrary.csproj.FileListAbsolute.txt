@@ -9,3 +9,10 @@ C:\Users\pytho\Desktop\Projects\EMS\EMS\ServerLibrary\obj\Debug\net8.0\ServerLib
 C:\Users\pytho\Desktop\Projects\EMS\EMS\ServerLibrary\obj\Debug\net8.0\refint\ServerLibrary.dll
 C:\Users\pytho\Desktop\Projects\EMS\EMS\ServerLibrary\obj\Debug\net8.0\ServerLibrary.pdb
 C:\Users\pytho\Desktop\Projects\EMS\EMS\ServerLibrary\obj\Debug\net8.0\ref\ServerLibrary.dll
+C:\Users\pytho\Desktop\Projects\EMS\EMS\ServerLibrary\bin\Debug\net8.0\ServerLibrary.runtimeconfig.json
+C:\Users\pytho\Desktop\Projects\EMS\EMS\ServerLibrary\bin\Debug\net8.0\BaseLibrary.dll
+C:\Users\pytho\Desktop\Projects\EMS\EMS\ServerLibrary\bin\Debug\net8.0\BaseLibrary.pdb
+C:\Users\pytho\Desktop\Projects\EMS\EMS\ServerLibrary\obj\Debug\net8.0\ServerLibrary.csproj.AssemblyReference.cache
+C:\Users\pytho\Desktop\Projects\EMS\EMS\ServerLibrary\obj\Debug\net8.0\ServerLibrary.sourcelink.json
+C:\Users\pytho\Desktop\Projects\EMS\EMS\ServerLibrary\obj\Debug\net8.0\ServerLi.AF94C59E.Up2Date
+C:\Users\pytho\Desktop\Projects\EMS\EMS\ServerLibrary\obj\Debug\net8.0\ServerLibrary.genruntimeconfig.cache

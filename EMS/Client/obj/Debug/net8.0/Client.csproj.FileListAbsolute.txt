@@ -1047,3 +1047,9 @@ C:\Users\pytho\Desktop\Projects\EMS\EMS\Client\obj\Debug\net8.0\Client.dll
 C:\Users\pytho\Desktop\Projects\EMS\EMS\Client\obj\Debug\net8.0\refint\Client.dll
 C:\Users\pytho\Desktop\Projects\EMS\EMS\Client\obj\Debug\net8.0\Client.pdb
 C:\Users\pytho\Desktop\Projects\EMS\EMS\Client\obj\Debug\net8.0\ref\Client.dll
+C:\Users\pytho\Desktop\Projects\EMS\EMS\Client\bin\Debug\net8.0\wwwroot\_framework\AutoMapper.wasm
+C:\Users\pytho\Desktop\Projects\EMS\EMS\Client\bin\Debug\net8.0\wwwroot\_framework\AutoMapper.wasm.gz
+C:\Users\pytho\Desktop\Projects\EMS\EMS\Client\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\pytho\Desktop\Projects\EMS\EMS\Client\obj\Debug\net8.0\Client.sourcelink.json
+C:\Users\pytho\Desktop\Projects\EMS\EMS\Client\obj\Debug\net8.0\webcil\AutoMapper.wasm
+C:\Users\pytho\Desktop\Projects\EMS\EMS\Client\obj\Debug\net8.0\compressed\yie3ldop7s.gz
