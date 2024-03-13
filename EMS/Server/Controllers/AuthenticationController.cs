@@ -32,5 +32,14 @@ namespace Server.Controllers
             var result = await accountInterface.SignInAsync(user);
             return Ok(result);
         }
+        [HttpPut("refresh-token")]
+        public async Task<IActionResult> RefreshTokenAsync(RefreshToken token)
+        {
+            if (token == null)
+                return BadRequest("Token data is empty");
+
+            var result = await accountInterface.RefreshTokenAsync(token);
+            return Ok(result);
+        }
     }
 }
