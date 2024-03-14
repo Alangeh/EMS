@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "G6GkwYFnxxUNkuy66Her0VjsmBFyQmKlFygjBcS4ZT8=",
+  "Hash": "oFGBdjFRk8x04eFgSNqeM8mtG5NwBMPCBa4+BOriFpQ=",
   "Source": "Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -109,7 +109,26 @@
       "AssetTraitValue": "boot",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\pytho\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\8.0.2\\build\\net8.0\\blazor.webassembly.js"
+      "OriginalItemSpec": "C:\\Users\\pytho\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\8.0.3\\build\\net8.0\\blazor.webassembly.js"
+    },
+    {
+      "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Blazored.LocalStorage.wasm",
+      "SourceId": "Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Blazored.LocalStorage.wasm",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\webcil\\Blazored.LocalStorage.wasm"
     },
     {
       "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Client.pdb",
@@ -204,7 +223,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\pytho\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\runtimes\\browser-wasm\\native\\dotnet.js"
+      "OriginalItemSpec": "C:\\Users\\pytho\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.3\\runtimes\\browser-wasm\\native\\dotnet.js"
     },
     {
       "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
@@ -223,15 +242,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\pytho\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\runtimes\\browser-wasm\\native\\dotnet.js.map"
+      "OriginalItemSpec": "C:\\Users\\pytho\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.3\\runtimes\\browser-wasm\\native\\dotnet.js.map"
     },
     {
-      "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.2.z367qwcjke.js",
+      "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.3.ckm5kroa5a.js",
       "SourceId": "Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.8.0.2.z367qwcjke.js",
+      "RelativePath": "_framework/dotnet.native.8.0.3.ckm5kroa5a.js",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -242,7 +261,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\pytho\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\runtimes\\browser-wasm\\native\\dotnet.native.js"
+      "OriginalItemSpec": "C:\\Users\\pytho\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.3\\runtimes\\browser-wasm\\native\\dotnet.native.js"
     },
     {
       "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
@@ -261,15 +280,15 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\pytho\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\runtimes\\browser-wasm\\native\\dotnet.native.wasm"
+      "OriginalItemSpec": "C:\\Users\\pytho\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.3\\runtimes\\browser-wasm\\native\\dotnet.native.wasm"
     },
     {
-      "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.2.9gsgpe7jhw.js",
+      "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.3.xaom60pr5i.js",
       "SourceId": "Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.8.0.2.9gsgpe7jhw.js",
+      "RelativePath": "_framework/dotnet.runtime.8.0.3.xaom60pr5i.js",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -280,7 +299,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\pytho\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\runtimes\\browser-wasm\\native\\dotnet.runtime.js"
+      "OriginalItemSpec": "C:\\Users\\pytho\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.3\\runtimes\\browser-wasm\\native\\dotnet.runtime.js"
     },
     {
       "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
@@ -299,7 +318,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\pytho\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\runtimes\\browser-wasm\\native\\dotnet.runtime.js.map"
+      "OriginalItemSpec": "C:\\Users\\pytho\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.3\\runtimes\\browser-wasm\\native\\dotnet.runtime.js.map"
     },
     {
       "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
@@ -318,7 +337,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\pytho\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\runtimes\\browser-wasm\\native\\icudt_CJK.dat"
+      "OriginalItemSpec": "C:\\Users\\pytho\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.3\\runtimes\\browser-wasm\\native\\icudt_CJK.dat"
     },
     {
       "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
@@ -337,7 +356,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\pytho\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\runtimes\\browser-wasm\\native\\icudt_EFIGS.dat"
+      "OriginalItemSpec": "C:\\Users\\pytho\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.3\\runtimes\\browser-wasm\\native\\icudt_EFIGS.dat"
     },
     {
       "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
@@ -356,7 +375,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\pytho\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
+      "OriginalItemSpec": "C:\\Users\\pytho\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.3\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
     },
     {
       "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.wasm",
@@ -376,6 +395,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\webcil\\Microsoft.AspNetCore.Authorization.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.wasm",
+      "SourceId": "Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Authorization.wasm",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\webcil\\Microsoft.AspNetCore.Components.Authorization.wasm"
     },
     {
       "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.wasm",
@@ -625,6 +663,44 @@
       "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\webcil\\Microsoft.Extensions.DependencyInjection.wasm"
     },
     {
+      "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Diagnostics.Abstractions.wasm",
+      "SourceId": "Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Diagnostics.Abstractions.wasm",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\webcil\\Microsoft.Extensions.Diagnostics.Abstractions.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Diagnostics.wasm",
+      "SourceId": "Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Diagnostics.wasm",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\webcil\\Microsoft.Extensions.Diagnostics.wasm"
+    },
+    {
       "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.FileProviders.Abstractions.wasm",
       "SourceId": "Client",
       "SourceType": "Computed",
@@ -682,6 +758,25 @@
       "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\webcil\\Microsoft.Extensions.FileSystemGlobbing.wasm"
     },
     {
+      "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Http.wasm",
+      "SourceId": "Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Http.wasm",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\webcil\\Microsoft.Extensions.Http.wasm"
+    },
+    {
       "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.wasm",
       "SourceId": "Client",
       "SourceType": "Computed",
@@ -720,6 +815,25 @@
       "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\webcil\\Microsoft.Extensions.Logging.wasm"
     },
     {
+      "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Options.ConfigurationExtensions.wasm",
+      "SourceId": "Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Options.ConfigurationExtensions.wasm",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\webcil\\Microsoft.Extensions.Options.ConfigurationExtensions.wasm"
+    },
+    {
       "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Options.wasm",
       "SourceId": "Client",
       "SourceType": "Computed",
@@ -756,6 +870,82 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\webcil\\Microsoft.Extensions.Primitives.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.IdentityModel.Abstractions.wasm",
+      "SourceId": "Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.IdentityModel.Abstractions.wasm",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\webcil\\Microsoft.IdentityModel.Abstractions.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.IdentityModel.JsonWebTokens.wasm",
+      "SourceId": "Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.IdentityModel.JsonWebTokens.wasm",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\webcil\\Microsoft.IdentityModel.JsonWebTokens.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.IdentityModel.Logging.wasm",
+      "SourceId": "Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.IdentityModel.Logging.wasm",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\webcil\\Microsoft.IdentityModel.Logging.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.IdentityModel.Tokens.wasm",
+      "SourceId": "Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.IdentityModel.Tokens.wasm",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\webcil\\Microsoft.IdentityModel.Tokens.wasm"
     },
     {
       "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.JSInterop.wasm",
@@ -1611,6 +1801,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\webcil\\System.Globalization.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.IdentityModel.Tokens.Jwt.wasm",
+      "SourceId": "Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/System.IdentityModel.Tokens.Jwt.wasm",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\webcil\\System.IdentityModel.Tokens.Jwt.wasm"
     },
     {
       "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.IO.Compression.Brotli.wasm",
@@ -4121,25 +4330,6 @@
       "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Xml.Serialization.wasm"
     },
     {
-      "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\compressed\\21aumav5wc.gz",
-      "SourceId": "Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js"
-    },
-    {
       "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\compressed\\21qe317mm5.gz",
       "SourceId": "Client",
       "SourceType": "Computed",
@@ -4539,6 +4729,25 @@
       "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Runtime.Numerics.wasm"
     },
     {
+      "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\compressed\\5o372hmr1t.gz",
+      "SourceId": "Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.native.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm"
+    },
+    {
       "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\compressed\\5s1m7g9594.gz",
       "SourceId": "Client",
       "SourceType": "Computed",
@@ -4596,6 +4805,25 @@
       "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Security.Cryptography.wasm"
     },
     {
+      "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\compressed\\6bjjxcua3v.gz",
+      "SourceId": "Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Diagnostics.Abstractions.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Diagnostics.Abstractions.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Diagnostics.Abstractions.wasm"
+    },
+    {
       "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\compressed\\6gaxeovbbd.gz",
       "SourceId": "Client",
       "SourceType": "Computed",
@@ -4634,25 +4862,6 @@
       "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Net.WebProxy.wasm"
     },
     {
-      "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\compressed\\70q0803yem.gz",
-      "SourceId": "Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_no_CJK.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat"
-    },
-    {
       "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\compressed\\71ro2v5rcp.gz",
       "SourceId": "Client",
       "SourceType": "Computed",
@@ -4670,6 +4879,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Private.Xml.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\compressed\\782cbcxdbz.gz",
+      "SourceId": "Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/System.IdentityModel.Tokens.Jwt.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.IdentityModel.Tokens.Jwt.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.IdentityModel.Tokens.Jwt.wasm"
     },
     {
       "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\compressed\\7bs0tnl69x.gz",
@@ -4862,25 +5090,6 @@
       "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Memory.wasm"
     },
     {
-      "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\compressed\\8zq8bo4xbu.gz",
-      "SourceId": "Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_CJK.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat"
-    },
-    {
       "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\compressed\\91fo2h8tie.gz",
       "SourceId": "Client",
       "SourceType": "Computed",
@@ -4974,25 +5183,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Threading.Tasks.Parallel.wasm"
-    },
-    {
-      "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\compressed\\9gsgpe7jhw.gz",
-      "SourceId": "Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.8.0.2.9gsgpe7jhw.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.2.9gsgpe7jhw.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.2.9gsgpe7jhw.js"
     },
     {
       "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\compressed\\9pitjsks7i.gz",
@@ -5147,6 +5337,25 @@
       "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.IO.Pipelines.wasm"
     },
     {
+      "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\compressed\\bh3vejlg24.gz",
+      "SourceId": "Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_CJK.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat"
+    },
+    {
       "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\compressed\\bwa1bob5v2.gz",
       "SourceId": "Client",
       "SourceType": "Computed",
@@ -5223,6 +5432,25 @@
       "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.wasm"
     },
     {
+      "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\compressed\\ckm5kroa5a.gz",
+      "SourceId": "Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.native.8.0.3.ckm5kroa5a.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.3.ckm5kroa5a.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.3.ckm5kroa5a.js"
+    },
+    {
       "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\compressed\\cpxy585gfa.gz",
       "SourceId": "Client",
       "SourceType": "Computed",
@@ -5242,6 +5470,44 @@
       "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.wasm"
     },
     {
+      "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\compressed\\d2k06ymced.gz",
+      "SourceId": "Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Blazored.LocalStorage.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Blazored.LocalStorage.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Blazored.LocalStorage.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\compressed\\dj1inyetpv.gz",
+      "SourceId": "Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_no_CJK.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat"
+    },
+    {
       "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\compressed\\dkzbgokkdv.gz",
       "SourceId": "Client",
       "SourceType": "Computed",
@@ -5259,6 +5525,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Runtime.InteropServices.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\compressed\\dn9c7pxerj.gz",
+      "SourceId": "Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/blazor.webassembly.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js"
     },
     {
       "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\compressed\\du0m03xwht.gz",
@@ -5489,6 +5774,25 @@
       "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Threading.Channels.wasm"
     },
     {
+      "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\compressed\\f5cggd3539.gz",
+      "SourceId": "Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.IdentityModel.Abstractions.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.IdentityModel.Abstractions.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.IdentityModel.Abstractions.wasm"
+    },
+    {
       "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\compressed\\f8eihi7qrs.gz",
       "SourceId": "Client",
       "SourceType": "Computed",
@@ -5717,6 +6021,25 @@
       "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Text.Encoding.wasm"
     },
     {
+      "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\compressed\\gvor9hdpxr.gz",
+      "SourceId": "Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.IdentityModel.Tokens.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.IdentityModel.Tokens.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.IdentityModel.Tokens.wasm"
+    },
+    {
       "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\compressed\\h206v4ghy3.gz",
       "SourceId": "Client",
       "SourceType": "Computed",
@@ -5772,6 +6095,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Net.WebSockets.Client.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\compressed\\hm4unwge0x.gz",
+      "SourceId": "Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js"
     },
     {
       "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\compressed\\hv51rpww5b.gz",
@@ -5848,6 +6190,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Reflection.Emit.Lightweight.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\compressed\\ifxb4l6psh.gz",
+      "SourceId": "Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.js.map.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map"
     },
     {
       "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\compressed\\iikn6b6idj.gz",
@@ -6097,6 +6458,25 @@
       "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Text.RegularExpressions.wasm"
     },
     {
+      "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\compressed\\kft6t24kz8.gz",
+      "SourceId": "Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Authorization.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.wasm"
+    },
+    {
       "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\compressed\\kfzi1qupqf.gz",
       "SourceId": "Client",
       "SourceType": "Computed",
@@ -6306,25 +6686,6 @@
       "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.IO.IsolatedStorage.wasm"
     },
     {
-      "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\compressed\\lx6xq3ks0p.gz",
-      "SourceId": "Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/blazor.webassembly.js.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js"
-    },
-    {
       "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\compressed\\m13nmunhfq.gz",
       "SourceId": "Client",
       "SourceType": "Computed",
@@ -6420,23 +6781,23 @@
       "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Security.Cryptography.Encoding.wasm"
     },
     {
-      "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\compressed\\n6lpxgjcpb.gz",
+      "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\compressed\\n788q4x3vx.gz",
       "SourceId": "Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/icudt_EFIGS.dat.gz",
+      "RelativePath": "_framework/Microsoft.Extensions.Diagnostics.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
+      "RelatedAsset": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Diagnostics.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat"
+      "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Diagnostics.wasm"
     },
     {
       "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\compressed\\n7i99604j1.gz",
@@ -6458,6 +6819,25 @@
       "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Web.wasm"
     },
     {
+      "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\compressed\\n9mwu4alma.gz",
+      "SourceId": "Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.IdentityModel.Logging.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.IdentityModel.Logging.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.IdentityModel.Logging.wasm"
+    },
+    {
       "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\compressed\\nd8fhwxrq4.gz",
       "SourceId": "Client",
       "SourceType": "Computed",
@@ -6475,25 +6855,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.wasm"
-    },
-    {
-      "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\compressed\\neh85o1wlo.gz",
-      "SourceId": "Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.js.map.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map"
     },
     {
       "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\compressed\\nohcbkckay.gz",
@@ -6781,6 +7142,25 @@
       "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Runtime.InteropServices.RuntimeInformation.wasm"
     },
     {
+      "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\compressed\\q018npfqfa.gz",
+      "SourceId": "Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.IdentityModel.JsonWebTokens.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.IdentityModel.JsonWebTokens.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.IdentityModel.JsonWebTokens.wasm"
+    },
+    {
       "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\compressed\\qc2edt3vt0.gz",
       "SourceId": "Client",
       "SourceType": "Computed",
@@ -6855,6 +7235,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Security.Cryptography.OpenSsl.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\compressed\\qs33s1qh4m.gz",
+      "SourceId": "Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Http.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Http.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Http.wasm"
     },
     {
       "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\compressed\\r12ligqp3q.gz",
@@ -7007,6 +7406,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Reflection.Metadata.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\compressed\\rv0i1o4ncv.gz",
+      "SourceId": "Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Options.ConfigurationExtensions.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Options.ConfigurationExtensions.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Options.ConfigurationExtensions.wasm"
     },
     {
       "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\compressed\\rv12rysbii.gz",
@@ -7180,25 +7598,6 @@
       "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Diagnostics.FileVersionInfo.wasm"
     },
     {
-      "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\compressed\\t7os1i4dtj.gz",
-      "SourceId": "Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.js.map.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map"
-    },
-    {
       "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\compressed\\tht7np9u1y.gz",
       "SourceId": "Client",
       "SourceType": "Computed",
@@ -7368,25 +7767,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Net.NameResolution.wasm"
-    },
-    {
-      "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\compressed\\vaqwjq81za.gz",
-      "SourceId": "Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.wasm.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm"
     },
     {
       "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\compressed\\vb77dx2ml9.gz",
@@ -7674,6 +8054,25 @@
       "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\netstandard.wasm"
     },
     {
+      "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\compressed\\wsz93ixrja.gz",
+      "SourceId": "Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.runtime.js.map.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map"
+    },
+    {
       "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\compressed\\x8kmgd9ymt.gz",
       "SourceId": "Client",
       "SourceType": "Computed",
@@ -7691,6 +8090,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\ClientLibrary.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\compressed\\xaom60pr5i.gz",
+      "SourceId": "Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.runtime.8.0.3.xaom60pr5i.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.3.xaom60pr5i.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.3.xaom60pr5i.js"
     },
     {
       "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\compressed\\xf5ayng1xd.gz",
@@ -7807,6 +8225,25 @@
       "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\AutoMapper.wasm"
     },
     {
+      "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\compressed\\yt0ckj2m1d.gz",
+      "SourceId": "Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_EFIGS.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat"
+    },
+    {
       "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\compressed\\yu6swjv1g9.gz",
       "SourceId": "Client",
       "SourceType": "Computed",
@@ -7824,25 +8261,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Threading.Tasks.wasm"
-    },
-    {
-      "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\compressed\\z367qwcjke.gz",
-      "SourceId": "Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.8.0.2.z367qwcjke.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.2.z367qwcjke.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.2.z367qwcjke.js"
     },
     {
       "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\obj\\Debug\\net8.0\\compressed\\z7vcasnnsx.gz",
