@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2661E16-4CD4-4642-800A-E517C956118F}|Client\\Client.csproj|c:\\users\\pytho\\desktop\\projects\\ems\\ems\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2661E16-4CD4-4642-800A-E517C956118F}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC11D04E-6928-4711-9175-9F6D9F98D4AF}|ClientLibrary\\ClientLibrary.csproj|c:\\users\\pytho\\desktop\\projects\\ems\\ems\\clientlibrary\\helpers\\customhttphandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC11D04E-6928-4711-9175-9F6D9F98D4AF}|ClientLibrary\\ClientLibrary.csproj|solutionrelative:clientlibrary\\helpers\\customhttphandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC11D04E-6928-4711-9175-9F6D9F98D4AF}|ClientLibrary\\ClientLibrary.csproj|c:\\users\\pytho\\desktop\\projects\\ems\\ems\\clientlibrary\\services\\implementations\\useraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC11D04E-6928-4711-9175-9F6D9F98D4AF}|ClientLibrary\\ClientLibrary.csproj|solutionrelative:clientlibrary\\services\\implementations\\useraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B57643F-718D-44CE-9407-B186CA95EB25}|Server\\Server.csproj|c:\\users\\pytho\\desktop\\projects\\ems\\ems\\server\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B57643F-718D-44CE-9407-B186CA95EB25}|Server\\Server.csproj|solutionrelative:server\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2661E16-4CD4-4642-800A-E517C956118F}|Client\\Client.csproj|c:\\users\\pytho\\desktop\\projects\\ems\\ems\\client\\pages\\accountpages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2661E16-4CD4-4642-800A-E517C956118F}|Client\\Client.csproj|solutionrelative:client\\pages\\accountpages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,61 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\Program.cs",
-              "RelativeDocumentMoniker": "Client\\Program.cs",
-              "ToolTip": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\Program.cs",
-              "RelativeToolTip": "Client\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T09:19:16.267Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CustomHttpHandler.cs",
-              "DocumentMoniker": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\ClientLibrary\\Helpers\\CustomHttpHandler.cs",
-              "RelativeDocumentMoniker": "ClientLibrary\\Helpers\\CustomHttpHandler.cs",
-              "ToolTip": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\ClientLibrary\\Helpers\\CustomHttpHandler.cs",
-              "RelativeToolTip": "ClientLibrary\\Helpers\\CustomHttpHandler.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAADQAAABHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T12:37:46.887Z",
+              "DocumentIndex": 0,
+              "Title": "Register.razor",
+              "DocumentMoniker": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\Pages\\AccountPages\\Register.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\AccountPages\\Register.razor",
+              "ToolTip": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\Pages\\AccountPages\\Register.razor",
+              "RelativeToolTip": "Client\\Pages\\AccountPages\\Register.razor",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T09:27:24.958Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AuthenticationController.cs",
-              "DocumentMoniker": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Server\\Controllers\\AuthenticationController.cs",
-              "RelativeDocumentMoniker": "Server\\Controllers\\AuthenticationController.cs",
-              "ToolTip": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Server\\Controllers\\AuthenticationController.cs",
-              "RelativeToolTip": "Server\\Controllers\\AuthenticationController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCQAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T12:34:36.823Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserAccountService.cs",
-              "DocumentMoniker": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\ClientLibrary\\Services\\Implementations\\UserAccountService.cs",
-              "RelativeDocumentMoniker": "ClientLibrary\\Services\\Implementations\\UserAccountService.cs",
-              "ToolTip": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\ClientLibrary\\Services\\Implementations\\UserAccountService.cs",
-              "RelativeToolTip": "ClientLibrary\\Services\\Implementations\\UserAccountService.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAqwCAAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T12:33:27.504Z"
             }
           ]
         }
