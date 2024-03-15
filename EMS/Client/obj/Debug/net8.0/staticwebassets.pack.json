@@ -33,6 +33,22 @@
       "PackagePath": "staticwebassets\\icon-192.png"
     },
     {
+      "Id": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\wwwroot\\images\\background\\bg-1.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\bg-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\wwwroot\\images\\background\\bg-2.png",
+      "PackagePath": "staticwebassets\\images\\background\\bg-2.png"
+    },
+    {
+      "Id": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\wwwroot\\images\\background\\bg-3.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\bg-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\wwwroot\\images\\companylogos\\logo.png",
+      "PackagePath": "staticwebassets\\images\\companylogos\\logo.png"
+    },
+    {
       "Id": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },

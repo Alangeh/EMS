@@ -1,13 +1,32 @@
 ﻿@page "/identity/account/login"
+@layout AuthenticationLayout
+
+<style>
+    .logincard {
+        opacity: 0.5;
+        margin-top: 50%; 
+        border-radius:10px;
+        color: white;
+        font-weight:bold;
+    }
+</style>
+
 <div class="container">
     <div class="row">
-        <div class="col-lg-6">
+        <div class="col-lg-4"></div>
+        <div class="col-lg-4">
             <EditForm Enhance Model="User" OnValidSubmit="HandleLogin">
                 <DataAnnotationsValidator />
-                <ValidationSummary />
-                <div class="card">
-                    <div class="card-header">
+                <div class="card bg-dark logincard">
+                    <div class="card-header text-center fs-5 mb-2">
                         Login Form
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-4 col-md-4 col-sm-4"></div>
+                        <div class="col-lg-4 col-md-4 col-sm-4 d-flex justify-content-center">
+                            <img style="border-radius:20px" src="../images/companylogos/logo.png" height="50" width="50" />
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-sm-4"></div>
                     </div>
                     <div class="card-body">
                         <div class="form-group mt-3">
@@ -16,15 +35,18 @@
                         </div>
                         <div class="form-group mt-3">
                             <label class="form-label">Password</label>
-                            <input @bind="User.Password" class="form-control" />
+                            <input type="password" @bind="User.Password" class="form-control" />
                         </div>
                         <div class="form-group mt-3">
+                            Dont't have an account? <a href="/identity/account/register"><font color="red">Register</font></a>
                             <button class="btn btn-outline-primary float-end" type="submit">Login</button>
                         </div>
+                        <ValidationSummary />
                     </div>
                 </div>
             </EditForm>
         </div>
+        <div class="col-lg-4"></div>
     </div>
 </div>
 
