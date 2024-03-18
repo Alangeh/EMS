@@ -1,5 +1,8 @@
 ﻿@page "/identity/account/register"
+@using Client.Pages.OtherPages
+@using Syncfusion.Blazor.Popups
 @layout AuthenticationLayout
+@inject SfDialogService DialogService
 
 <style>
     .registerCard {
@@ -46,9 +49,18 @@
                             <input type="password" @bind="User.ConfirmPassword" class="form-control" />
                         </div>
                         <div class="form-group mt-3">
-                            Already have an account? <a href="/identity/account/login"><font color="red">Login</font></a>
-                            <button class="btn btn-outline-primary float-end" type="submit">Register</button>
+                            @if (ShowLoadingButton)
+                            {
+                                <ButtonLoadingSpinner></ButtonLoadingSpinner>
+                            }
+                            else
+                            {
+                                <button class="btn btn-outline-primary float-end" type="submit">Register</button>
+                            }
                         </div>
+                    </div>
+                    <div class="card-footer">
+                        Already have an account? <a href="/identity/account/login"><font color="red">Login</font></a>
                         <ValidationSummary />
                     </div>
                 </div>
@@ -59,17 +71,27 @@
 </div>
 
 @code {
+    public bool ShowLoadingButton { get; set; } = false;
     BaseLibrary.DTOs.Register User = new();
 
-    async Task HandleRegistration() 
+    async Task HandleRegistration()
     {
+        ShowLoadingButton = true;
         var result = await accountService.CreateAsync(User);
         if (result.Flag)
         {
+            await DisplayDialog(result.Message, "Operation Successful");
             User = new();
-        } else 
-        {
-
         }
+        else
+        {
+            await DisplayDialog(result.Message, "Error");
+        }
+        ShowLoadingButton = false;
+    }
+
+    private async Task DisplayDialog(string content, string title)
+    {
+        await DialogService.AlertAsync(content, title);
     }
 }

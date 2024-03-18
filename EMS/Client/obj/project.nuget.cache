@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Ql3CB2wYF+AzgwB7JbovguE/v3qdwFCElWzqKqryDt7cp4HKlZMD5L4RM8ftmBQ7kcyTLVTumLw0RNGfiOKjWw==",
+  "dgSpecHash": "kIVaDpxQRPyGMWONFThRCYvgn372lCsXlxSpVo2Hq9gmv2fLKud+RIxFTmAemReXA9tZkdwi4tczFHNByLDabg==",
   "success": true,
   "projectFilePath": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\Client.csproj",
   "expectedPackageFiles": [
@@ -41,6 +41,11 @@
     "C:\\Users\\pytho\\.nuget\\packages\\microsoft.jsinterop.webassembly\\8.0.3\\microsoft.jsinterop.webassembly.8.0.3.nupkg.sha512",
     "C:\\Users\\pytho\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.3\\microsoft.net.illink.tasks.8.0.3.nupkg.sha512",
     "C:\\Users\\pytho\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\8.0.3\\microsoft.net.sdk.webassembly.pack.8.0.3.nupkg.sha512",
+    "C:\\Users\\pytho\\.nuget\\packages\\syncfusion.blazor.buttons\\25.1.35\\syncfusion.blazor.buttons.25.1.35.nupkg.sha512",
+    "C:\\Users\\pytho\\.nuget\\packages\\syncfusion.blazor.core\\25.1.35\\syncfusion.blazor.core.25.1.35.nupkg.sha512",
+    "C:\\Users\\pytho\\.nuget\\packages\\syncfusion.blazor.popups\\25.1.35\\syncfusion.blazor.popups.25.1.35.nupkg.sha512",
+    "C:\\Users\\pytho\\.nuget\\packages\\syncfusion.blazor.themes\\25.1.35\\syncfusion.blazor.themes.25.1.35.nupkg.sha512",
+    "C:\\Users\\pytho\\.nuget\\packages\\syncfusion.licensing\\25.1.35\\syncfusion.licensing.25.1.35.nupkg.sha512",
     "C:\\Users\\pytho\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.0\\system.diagnostics.diagnosticsource.8.0.0.nupkg.sha512",
     "C:\\Users\\pytho\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.4.0\\system.identitymodel.tokens.jwt.7.4.0.nupkg.sha512",
     "C:\\Users\\pytho\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
