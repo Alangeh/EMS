@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2661E16-4CD4-4642-800A-E517C956118F}|Client\\Client.csproj|c:\\users\\pytho\\desktop\\projects\\ems\\ems\\client\\pages\\authenticationpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2661E16-4CD4-4642-800A-E517C956118F}|Client\\Client.csproj|solutionrelative:client\\pages\\authenticationpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2661E16-4CD4-4642-800A-E517C956118F}|Client\\Client.csproj|c:\\users\\pytho\\desktop\\projects\\ems\\ems\\client\\pages\\contentpages\\homepage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2661E16-4CD4-4642-800A-E517C956118F}|Client\\Client.csproj|solutionrelative:client\\pages\\contentpages\\homepage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B57643F-718D-44CE-9407-B186CA95EB25}|Server\\Server.csproj|c:\\users\\pytho\\desktop\\projects\\ems\\ems\\server\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B57643F-718D-44CE-9407-B186CA95EB25}|Server\\Server.csproj|solutionrelative:server\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB1C8B05-AF51-4D14-A622-FDAEF3150B19}|ServerLibrary\\ServerLibrary.csproj|c:\\users\\pytho\\desktop\\projects\\ems\\ems\\serverlibrary\\repositories\\implementations\\useraccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB1C8B05-AF51-4D14-A622-FDAEF3150B19}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\repositories\\implementations\\useraccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2661E16-4CD4-4642-800A-E517C956118F}|Client\\Client.csproj|c:\\users\\pytho\\desktop\\projects\\ems\\ems\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2661E16-4CD4-4642-800A-E517C956118F}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2661E16-4CD4-4642-800A-E517C956118F}|Client\\Client.csproj|c:\\users\\pytho\\desktop\\projects\\ems\\ems\\client\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2661E16-4CD4-4642-800A-E517C956118F}|Client\\Client.csproj|solutionrelative:client\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2661E16-4CD4-4642-800A-E517C956118F}|Client\\Client.csproj|c:\\users\\pytho\\desktop\\projects\\ems\\ems\\client\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2661E16-4CD4-4642-800A-E517C956118F}|Client\\Client.csproj|solutionrelative:client\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2661E16-4CD4-4642-800A-E517C956118F}|Client\\Client.csproj|c:\\users\\pytho\\desktop\\projects\\ems\\ems\\client\\layout\\authenticationlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2661E16-4CD4-4642-800A-E517C956118F}|Client\\Client.csproj|solutionrelative:client\\layout\\authenticationlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2661E16-4CD4-4642-800A-E517C956118F}|Client\\Client.csproj|c:\\users\\pytho\\desktop\\projects\\ems\\ems\\client\\pages\\otherpages\\buttonloadingspinner.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2661E16-4CD4-4642-800A-E517C956118F}|Client\\Client.csproj|solutionrelative:client\\pages\\otherpages\\buttonloadingspinner.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2661E16-4CD4-4642-800A-E517C956118F}|Client\\Client.csproj|c:\\users\\pytho\\desktop\\projects\\ems\\ems\\client\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2661E16-4CD4-4642-800A-E517C956118F}|Client\\Client.csproj|solutionrelative:client\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2661E16-4CD4-4642-800A-E517C956118F}|Client\\Client.csproj|c:\\users\\pytho\\desktop\\projects\\ems\\ems\\client\\pages\\accountpages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -23,12 +43,8 @@
       "RelativeMoniker": "D:0:0:{A2661E16-4CD4-4642-800A-E517C956118F}|Client\\Client.csproj|solutionrelative:client\\pages\\accountpages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2661E16-4CD4-4642-800A-E517C956118F}|Client\\Client.csproj|c:\\users\\pytho\\desktop\\projects\\ems\\ems\\client\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2661E16-4CD4-4642-800A-E517C956118F}|Client\\Client.csproj|solutionrelative:client\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2661E16-4CD4-4642-800A-E517C956118F}|Client\\Client.csproj|c:\\users\\pytho\\desktop\\projects\\ems\\ems\\client\\pages\\otherpages\\buttonloadingspinner.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2661E16-4CD4-4642-800A-E517C956118F}|Client\\Client.csproj|solutionrelative:client\\pages\\otherpages\\buttonloadingspinner.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2661E16-4CD4-4642-800A-E517C956118F}|Client\\Client.csproj|c:\\users\\pytho\\desktop\\projects\\ems\\ems\\client\\layout\\authenticationlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2661E16-4CD4-4642-800A-E517C956118F}|Client\\Client.csproj|solutionrelative:client\\layout\\authenticationlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,17 +54,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomePage.razor",
+              "DocumentMoniker": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\Pages\\ContentPages\\HomePage.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\ContentPages\\HomePage.razor",
+              "ToolTip": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\Pages\\ContentPages\\HomePage.razor",
+              "RelativeToolTip": "Client\\Pages\\ContentPages\\HomePage.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T14:02:21.071Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AuthenticationPage.razor",
+              "DocumentMoniker": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\Pages\\AuthenticationPage.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\AuthenticationPage.razor",
+              "ToolTip": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\Pages\\AuthenticationPage.razor",
+              "RelativeToolTip": "Client\\Pages\\AuthenticationPage.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T13:57:27.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserAccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\ServerLibrary\\Repositories\\Implementations\\UserAccountRepository.cs",
+              "RelativeDocumentMoniker": "ServerLibrary\\Repositories\\Implementations\\UserAccountRepository.cs",
+              "ToolTip": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\ServerLibrary\\Repositories\\Implementations\\UserAccountRepository.cs",
+              "RelativeToolTip": "ServerLibrary\\Repositories\\Implementations\\UserAccountRepository.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAIwE0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T12:15:14.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Server\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "Server\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Server\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "Server\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T12:12:13.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\Program.cs",
               "RelativeDocumentMoniker": "Client\\Program.cs",
               "ToolTip": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\Program.cs",
               "RelativeToolTip": "Client\\Program.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAAAB4AAAAnAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-18T10:07:18.493Z",
               "EditorCaption": ""
@@ -67,10 +139,6 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "ButtonLoadingSpinner.razor",
@@ -85,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "Client\\Layout\\MainLayout.razor",
@@ -98,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Register.razor",
               "DocumentMoniker": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\Pages\\AccountPages\\Register.razor",
               "RelativeDocumentMoniker": "Client\\Pages\\AccountPages\\Register.razor",
@@ -111,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Login.razor",
               "DocumentMoniker": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\Pages\\AccountPages\\Login.razor",
               "RelativeDocumentMoniker": "Client\\Pages\\AccountPages\\Login.razor",
@@ -124,7 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "AuthenticationLayout.razor",
               "DocumentMoniker": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\Layout\\AuthenticationLayout.razor",
               "RelativeDocumentMoniker": "Client\\Layout\\AuthenticationLayout.razor",
@@ -132,8 +200,7 @@
               "RelativeToolTip": "Client\\Layout\\AuthenticationLayout.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-15T10:02:30.764Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T10:02:30.764Z"
             }
           ]
         }
