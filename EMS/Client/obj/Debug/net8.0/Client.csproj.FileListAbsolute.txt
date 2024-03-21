@@ -1,10 +1,3 @@
-C:\Users\pytho\Desktop\Projects\EMS\EMS\Client\obj\Debug\net8.0\Client.csproj.AssemblyReference.cache
-C:\Users\pytho\Desktop\Projects\EMS\EMS\Client\obj\Debug\net8.0\Client.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\pytho\Desktop\Projects\EMS\EMS\Client\obj\Debug\net8.0\Client.AssemblyInfoInputs.cache
-C:\Users\pytho\Desktop\Projects\EMS\EMS\Client\obj\Debug\net8.0\Client.AssemblyInfo.cs
-C:\Users\pytho\Desktop\Projects\EMS\EMS\Client\obj\Debug\net8.0\Client.csproj.CoreCompileInputs.cache
-C:\Users\pytho\Desktop\Projects\EMS\EMS\Client\obj\Debug\net8.0\Client.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\pytho\Desktop\Projects\EMS\EMS\Client\obj\Debug\net8.0\Client.sourcelink.json
 C:\Users\pytho\Desktop\Projects\EMS\EMS\Client\bin\Debug\net8.0\wwwroot\_framework\AutoMapper.wasm
 C:\Users\pytho\Desktop\Projects\EMS\EMS\Client\bin\Debug\net8.0\wwwroot\_framework\BaseLibrary.pdb
 C:\Users\pytho\Desktop\Projects\EMS\EMS\Client\bin\Debug\net8.0\wwwroot\_framework\BaseLibrary.wasm
@@ -680,6 +673,13 @@ C:\Users\pytho\Desktop\Projects\EMS\EMS\Client\bin\Debug\net8.0\BaseLibrary.dll
 C:\Users\pytho\Desktop\Projects\EMS\EMS\Client\bin\Debug\net8.0\ClientLibrary.dll
 C:\Users\pytho\Desktop\Projects\EMS\EMS\Client\bin\Debug\net8.0\BaseLibrary.pdb
 C:\Users\pytho\Desktop\Projects\EMS\EMS\Client\bin\Debug\net8.0\ClientLibrary.pdb
+C:\Users\pytho\Desktop\Projects\EMS\EMS\Client\obj\Debug\net8.0\Client.csproj.AssemblyReference.cache
+C:\Users\pytho\Desktop\Projects\EMS\EMS\Client\obj\Debug\net8.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pytho\Desktop\Projects\EMS\EMS\Client\obj\Debug\net8.0\Client.AssemblyInfoInputs.cache
+C:\Users\pytho\Desktop\Projects\EMS\EMS\Client\obj\Debug\net8.0\Client.AssemblyInfo.cs
+C:\Users\pytho\Desktop\Projects\EMS\EMS\Client\obj\Debug\net8.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\pytho\Desktop\Projects\EMS\EMS\Client\obj\Debug\net8.0\Client.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pytho\Desktop\Projects\EMS\EMS\Client\obj\Debug\net8.0\Client.sourcelink.json
 C:\Users\pytho\Desktop\Projects\EMS\EMS\Client\obj\Debug\net8.0\webcil\AutoMapper.wasm
 C:\Users\pytho\Desktop\Projects\EMS\EMS\Client\obj\Debug\net8.0\webcil\Blazored.LocalStorage.wasm
 C:\Users\pytho\Desktop\Projects\EMS\EMS\Client\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Authorization.wasm

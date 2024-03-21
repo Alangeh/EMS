@@ -8801,6 +8801,10 @@
       "PackagePath": "staticwebassets\\icon-192.png"
     },
     {
+      "Id": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\wwwroot\\images\\Profile\\defaultProfile.png",
+      "PackagePath": "staticwebassets\\images\\Profile\\defaultProfile.png"
+    },
+    {
       "Id": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\wwwroot\\images\\background\\bg-1.jpg",
       "PackagePath": "staticwebassets\\images\\background\\bg-1.jpg"
     },

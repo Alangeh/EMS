@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xrheUxqACCOchqAeT937b6wZ5wBE+8kiNVfzkNu2P5M=",
+  "Hash": "2o9cgfAo0hXdXh01+elwYfgREEqT4oNIdeBXkiCqqgo=",
   "Source": "Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -50992,6 +50992,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\companylogos\\logo.png"
+    },
+    {
+      "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\wwwroot\\images\\Profile\\defaultProfile.png",
+      "SourceId": "Client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "images/Profile/defaultProfile.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Profile\\defaultProfile.png"
     },
     {
       "Identity": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\wwwroot\\index.html",
