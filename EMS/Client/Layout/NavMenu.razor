@@ -1,5 +1,7 @@
 ﻿@page "/nav"
+@using Client.ApplicationStates
 @using Microsoft.AspNetCore.Components.Authorization
+@inject DepartmentState departmentState
 
 <AuthorizeView>
     <Authorized>
@@ -123,4 +125,8 @@
             DepartmentCssStyle = "hidden";
     }
 
+    void GeneralDepartmentClicked()
+    {
+        departmentState.GeneralDepartmentClicked();
+    }
 }
