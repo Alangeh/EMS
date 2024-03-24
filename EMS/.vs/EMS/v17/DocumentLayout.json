@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2661E16-4CD4-4642-800A-E517C956118F}|Client\\Client.csproj|c:\\users\\pytho\\desktop\\projects\\ems\\ems\\client\\pages\\departmentpages\\generaldepartmentpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2661E16-4CD4-4642-800A-E517C956118F}|Client\\Client.csproj|solutionrelative:client\\pages\\departmentpages\\generaldepartmentpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\ServerLibrary\\Data\\Migrations\\20240324211202_Remodelling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ServerLibrary\\Data\\Migrations\\20240324211202_Remodelling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2661E16-4CD4-4642-800A-E517C956118F}|Client\\Client.csproj|c:\\users\\pytho\\desktop\\projects\\ems\\ems\\client\\pages\\departmentpages\\generaldepartmentdialog.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2661E16-4CD4-4642-800A-E517C956118F}|Client\\Client.csproj|solutionrelative:client\\pages\\departmentpages\\generaldepartmentdialog.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CB1C8B05-AF51-4D14-A622-FDAEF3150B19}|ServerLibrary\\ServerLibrary.csproj|c:\\users\\pytho\\desktop\\projects\\ems\\ems\\serverlibrary\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB1C8B05-AF51-4D14-A622-FDAEF3150B19}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GeneralDepartmentPage.razor",
-              "DocumentMoniker": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\Pages\\DepartmentPages\\GeneralDepartmentPage.razor",
-              "RelativeDocumentMoniker": "Client\\Pages\\DepartmentPages\\GeneralDepartmentPage.razor",
-              "ToolTip": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\Pages\\DepartmentPages\\GeneralDepartmentPage.razor",
-              "RelativeToolTip": "Client\\Pages\\DepartmentPages\\GeneralDepartmentPage.razor",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAACoAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-24T20:05:13.088Z",
+              "Title": "20240324211202_Remodelling.cs",
+              "DocumentMoniker": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\ServerLibrary\\Data\\Migrations\\20240324211202_Remodelling.cs",
+              "RelativeDocumentMoniker": "ServerLibrary\\Data\\Migrations\\20240324211202_Remodelling.cs",
+              "ToolTip": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\ServerLibrary\\Data\\Migrations\\20240324211202_Remodelling.cs",
+              "RelativeToolTip": "ServerLibrary\\Data\\Migrations\\20240324211202_Remodelling.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T21:12:02.623Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "GeneralDepartmentDialog.razor",
-              "DocumentMoniker": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\Pages\\DepartmentPages\\GeneralDepartmentDialog.razor",
-              "RelativeDocumentMoniker": "Client\\Pages\\DepartmentPages\\GeneralDepartmentDialog.razor",
-              "ToolTip": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\Pages\\DepartmentPages\\GeneralDepartmentDialog.razor",
-              "RelativeToolTip": "Client\\Pages\\DepartmentPages\\GeneralDepartmentDialog.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-24T20:04:41.104Z",
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\ServerLibrary\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ServerLibrary\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\ServerLibrary\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ServerLibrary\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T20:48:27.472Z",
               "EditorCaption": ""
             }
           ]
