@@ -3,48 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2661E16-4CD4-4642-800A-E517C956118F}|Client\\Client.csproj|c:\\users\\pytho\\desktop\\projects\\ems\\ems\\client\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2661E16-4CD4-4642-800A-E517C956118F}|Client\\Client.csproj|solutionrelative:client\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2661E16-4CD4-4642-800A-E517C956118F}|Client\\Client.csproj|c:\\users\\pytho\\desktop\\projects\\ems\\ems\\client\\pages\\contentpages\\homepage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2661E16-4CD4-4642-800A-E517C956118F}|Client\\Client.csproj|solutionrelative:client\\pages\\contentpages\\homepage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2661E16-4CD4-4642-800A-E517C956118F}|Client\\Client.csproj|c:\\users\\pytho\\desktop\\projects\\ems\\ems\\client\\pages\\departmentpages\\generaldepartmentpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2661E16-4CD4-4642-800A-E517C956118F}|Client\\Client.csproj|solutionrelative:client\\pages\\departmentpages\\generaldepartmentpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D38D7908-14E7-46B5-820F-E9410C765BEA}|BaseLibrary\\BaseLibrary.csproj|c:\\users\\pytho\\desktop\\projects\\ems\\ems\\baselibrary\\dtos\\basedepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D38D7908-14E7-46B5-820F-E9410C765BEA}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\dtos\\basedepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D38D7908-14E7-46B5-820F-E9410C765BEA}|BaseLibrary\\BaseLibrary.csproj|c:\\users\\pytho\\desktop\\projects\\ems\\ems\\baselibrary\\dtos\\generaldepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D38D7908-14E7-46B5-820F-E9410C765BEA}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\dtos\\generaldepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2661E16-4CD4-4642-800A-E517C956118F}|Client\\Client.csproj|c:\\users\\pytho\\desktop\\projects\\ems\\ems\\client\\pages\\accountpages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2661E16-4CD4-4642-800A-E517C956118F}|Client\\Client.csproj|solutionrelative:client\\pages\\accountpages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2661E16-4CD4-4642-800A-E517C956118F}|Client\\Client.csproj|c:\\users\\pytho\\desktop\\projects\\ems\\ems\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2661E16-4CD4-4642-800A-E517C956118F}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2661E16-4CD4-4642-800A-E517C956118F}|Client\\Client.csproj|c:\\users\\pytho\\desktop\\projects\\ems\\ems\\client\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2661E16-4CD4-4642-800A-E517C956118F}|Client\\Client.csproj|solutionrelative:client\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2661E16-4CD4-4642-800A-E517C956118F}|Client\\Client.csproj|c:\\users\\pytho\\desktop\\projects\\ems\\ems\\client\\pages\\adminpages\\tablebanner.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2661E16-4CD4-4642-800A-E517C956118F}|Client\\Client.csproj|solutionrelative:client\\pages\\adminpages\\tablebanner.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2661E16-4CD4-4642-800A-E517C956118F}|Client\\Client.csproj|c:\\users\\pytho\\desktop\\projects\\ems\\ems\\client\\pages\\otherpages\\buttonloadingspinner.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2661E16-4CD4-4642-800A-E517C956118F}|Client\\Client.csproj|solutionrelative:client\\pages\\otherpages\\buttonloadingspinner.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2661E16-4CD4-4642-800A-E517C956118F}|Client\\Client.csproj|c:\\users\\pytho\\desktop\\projects\\ems\\ems\\client\\pages\\otherpages\\profiledropdown.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2661E16-4CD4-4642-800A-E517C956118F}|Client\\Client.csproj|solutionrelative:client\\pages\\otherpages\\profiledropdown.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2661E16-4CD4-4642-800A-E517C956118F}|Client\\Client.csproj|c:\\users\\pytho\\desktop\\projects\\ems\\ems\\client\\pages\\departmentpages\\generaldepartmentdialog.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2661E16-4CD4-4642-800A-E517C956118F}|Client\\Client.csproj|solutionrelative:client\\pages\\departmentpages\\generaldepartmentdialog.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,140 +26,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "GeneralDepartmentPage.razor",
               "DocumentMoniker": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\Pages\\DepartmentPages\\GeneralDepartmentPage.razor",
               "RelativeDocumentMoniker": "Client\\Pages\\DepartmentPages\\GeneralDepartmentPage.razor",
               "ToolTip": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\Pages\\DepartmentPages\\GeneralDepartmentPage.razor",
               "RelativeToolTip": "Client\\Pages\\DepartmentPages\\GeneralDepartmentPage.razor",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAADEAAAAsAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACoAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-23T11:49:52.48Z",
+              "WhenOpened": "2024-03-24T20:05:13.088Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "HomePage.razor",
-              "DocumentMoniker": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\Pages\\ContentPages\\HomePage.razor",
-              "RelativeDocumentMoniker": "Client\\Pages\\ContentPages\\HomePage.razor",
-              "ToolTip": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\Pages\\ContentPages\\HomePage.razor",
-              "RelativeToolTip": "Client\\Pages\\ContentPages\\HomePage.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAhAAAA",
+              "Title": "GeneralDepartmentDialog.razor",
+              "DocumentMoniker": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\Pages\\DepartmentPages\\GeneralDepartmentDialog.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\DepartmentPages\\GeneralDepartmentDialog.razor",
+              "ToolTip": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\Pages\\DepartmentPages\\GeneralDepartmentDialog.razor",
+              "RelativeToolTip": "Client\\Pages\\DepartmentPages\\GeneralDepartmentDialog.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-20T14:49:36.063Z",
+              "WhenOpened": "2024-03-24T20:04:41.104Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\Layout\\NavMenu.razor",
-              "RelativeDocumentMoniker": "Client\\Layout\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\Layout\\NavMenu.razor",
-              "RelativeToolTip": "Client\\Layout\\NavMenu.razor",
-              "ViewState": "AQIAACMAAAAAAAAAAAAowDUAAABaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-21T10:10:15.047Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BaseDepartmentDTO.cs",
-              "DocumentMoniker": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\BaseLibrary\\DTOs\\BaseDepartmentDTO.cs",
-              "RelativeDocumentMoniker": "BaseLibrary\\DTOs\\BaseDepartmentDTO.cs",
-              "ToolTip": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\BaseLibrary\\DTOs\\BaseDepartmentDTO.cs",
-              "RelativeToolTip": "BaseLibrary\\DTOs\\BaseDepartmentDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-23T11:08:51.734Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GeneralDepartmentDTO.cs",
-              "DocumentMoniker": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\BaseLibrary\\DTOs\\GeneralDepartmentDTO.cs",
-              "RelativeDocumentMoniker": "BaseLibrary\\DTOs\\GeneralDepartmentDTO.cs",
-              "ToolTip": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\BaseLibrary\\DTOs\\GeneralDepartmentDTO.cs",
-              "RelativeToolTip": "BaseLibrary\\DTOs\\GeneralDepartmentDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAMAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-23T11:11:08.851Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ButtonLoadingSpinner.razor",
-              "DocumentMoniker": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\Pages\\OtherPages\\ButtonLoadingSpinner.razor",
-              "RelativeDocumentMoniker": "Client\\Pages\\OtherPages\\ButtonLoadingSpinner.razor",
-              "ToolTip": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\Pages\\OtherPages\\ButtonLoadingSpinner.razor",
-              "RelativeToolTip": "Client\\Pages\\OtherPages\\ButtonLoadingSpinner.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-21T10:27:04.979Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Login.razor",
-              "DocumentMoniker": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\Pages\\AccountPages\\Login.razor",
-              "RelativeDocumentMoniker": "Client\\Pages\\AccountPages\\Login.razor",
-              "ToolTip": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\Pages\\AccountPages\\Login.razor",
-              "RelativeToolTip": "Client\\Pages\\AccountPages\\Login.razor",
-              "ViewState": "AQIAADYAAAAAAAAAAAAAAEIAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-21T10:24:27.188Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\Program.cs",
-              "RelativeDocumentMoniker": "Client\\Program.cs",
-              "ToolTip": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\Program.cs",
-              "RelativeToolTip": "Client\\Program.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAAB8AAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T11:00:59.258Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MainLayout.razor",
-              "DocumentMoniker": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\Layout\\MainLayout.razor",
-              "RelativeDocumentMoniker": "Client\\Layout\\MainLayout.razor",
-              "ToolTip": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\Layout\\MainLayout.razor",
-              "RelativeToolTip": "Client\\Layout\\MainLayout.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-21T09:06:16.383Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ProfileDropdown.razor",
-              "DocumentMoniker": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\Pages\\OtherPages\\ProfileDropdown.razor",
-              "RelativeDocumentMoniker": "Client\\Pages\\OtherPages\\ProfileDropdown.razor",
-              "ToolTip": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\Pages\\OtherPages\\ProfileDropdown.razor",
-              "RelativeToolTip": "Client\\Pages\\OtherPages\\ProfileDropdown.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-21T09:03:19.88Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "TableBanner.razor",
-              "DocumentMoniker": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\Pages\\AdminPages\\TableBanner.razor",
-              "RelativeDocumentMoniker": "Client\\Pages\\AdminPages\\TableBanner.razor",
-              "ToolTip": "C:\\Users\\pytho\\Desktop\\Projects\\EMS\\EMS\\Client\\Pages\\AdminPages\\TableBanner.razor",
-              "RelativeToolTip": "Client\\Pages\\AdminPages\\TableBanner.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-20T14:43:29.053Z"
             }
           ]
         }

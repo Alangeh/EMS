@@ -1,24 +1,27 @@
 ﻿
+using System.ComponentModel.DataAnnotations;
+
 namespace BaseLibrary.Entities
 {
-    public class Employee
+    public class Employee : BaseEntity
     {
-        public int Id { get; set; }
-        public string? Name { get; set; }
+        [Required]
         public string? CivilId { get; set; }
+        [Required]
         public string? Fullname { get; set; }
+        [Required]
         public string? FileNumber { get; set; }
+        [Required]
         public string? JobTitle { get; set; }
+        [Required]
         public string? Address { get; set; }
+        [Required, DataType(DataType.PhoneNumber)]
         public string? Telephone { get; set; }
+        [Required]
         public string? Picture { get; set; }
         public string? Other { get; set; }
 
         #region Relationship properties
-        public GeneralDepartment? GeneralDepartment { get; set; }
-        public int GeneralDepartmentId { get; set; }
-        public Department? Department { get; set; }
-        public int DepartmentId { get; set; }
         public Branch? Branch { get; set; }
         public int BranchId { get; set; }
         public Town? Town { get; set; }
